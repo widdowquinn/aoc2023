@@ -9,3 +9,6 @@ All solutions are in Python, and presented as Jupyter Notebooks.
 - Day 01
   - [HTML](./html/day01.html)
   - [PDF](./pdf/day01.pdf)
+- Day 02
+  - [HTML](./html/day02.html)
+  - [PDF](./pdf/day02.pdf)
