@@ -12,3 +12,6 @@ All solutions are in Python, and presented as Jupyter Notebooks.
 - Day 02
   - [HTML](./html/day02.html)
   - [PDF](./pdf/day02.pdf)
+- Day 03
+  - [HTML](./html/day03.html)
+  - [PDF](./pdf/day03.pdf)
