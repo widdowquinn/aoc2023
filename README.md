@@ -15,3 +15,6 @@ All solutions are in Python, and presented as Jupyter Notebooks.
 - Day 03
   - [HTML](./html/day03.html)
   - [PDF](./pdf/day03.pdf)
+- Day 04
+  - [HTML](./html/day04.html)
+  - [PDF](./pdf/day04.pdf)
